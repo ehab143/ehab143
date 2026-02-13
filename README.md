@@ -2,13 +2,13 @@
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
   
-  <h1>Hi there, I'm Ehab Ahmed]! 👋</h1>
+  <h1>Hi there, I'm Ehab Ahmed! 👋</h1>
   
   <h3>🚀 Passionate Flutter Developer & Mobile App Enthusiast</h3>
 
   ---
 
-  <a href="https://github.com/[YourUsername]">
+  <a href="https://github.com/[ehab143]">
     <img src="https://img.shields.io/github/followers/[YourUsername]?label=Follow&style=social" alt="GitHub Badge"/>
   </a>
   <a href="https://linkedin.com/in/[YourLinkedin]">
