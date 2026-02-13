@@ -61,20 +61,7 @@ I'm a software engineer specializing in building high-quality mobile application
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=radical&hide_border=true&langs_count=6" height="160" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
+ 
 
 ## 🏆 Featured Projects
 
