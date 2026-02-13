@@ -8,7 +8,7 @@
 
   ---
 
-  <a href="https://github.com/[ehab143]">
+  <a href="https://github.com/ehab143">
 <img src="https://img.shields.io/github/followers/[YourUsername]?label=Follow&style=social" alt="GitHub Badge"/>  </a>
   <a href="https://linkedin.com/in/[YourLinkedin]">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
