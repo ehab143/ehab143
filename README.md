@@ -43,7 +43,6 @@ I'm a software engineer specializing in building high-quality mobile application
   ### State Management & Architecture
   <img src="https://img.shields.io/badge/Bloc%20%2F%20Cubit-gray?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Provider-gray?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GetX-gray?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MVVM-Arch-orange?style=for-the-badge" />
   
   ### Backend & Database
