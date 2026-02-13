@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/ehab-ahmed-b41b282a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
-  <a href="ehabahmedabdrabo@gmail.com">
+  <a href="https://ehabahmedabdrabo@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail" alt="Email Badge"/>
   </a>
 
