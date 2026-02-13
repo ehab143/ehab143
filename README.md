@@ -80,13 +80,17 @@ I'm a software engineer specializing in building high-quality mobile application
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🛍️ E-Commerce App** | A complete shopping app with cart, favorites, and payment integration. | `Flutter`, `Cubit`, `Dio`, `Clean Arch` |
-| **💬 Chat App** | Real-time messaging app with group chat features. | `Flutter`, `Firebase`, `GetX` |
-| **Movies App** | Discover trending movies using TMDB API. | `Flutter`, `Provider`, `API` |
+| **🛍️ E-Commerce App** | A complete shopping app with cart, favorites. | `Flutter`, `Cubit`, `Dio`, `MVVM` |
+| **💬 Chat App** | Real-time messaging app with group chat features. | `Flutter`, `Cubit` |
+| **💬 Bookly App** | Real-time books app  | `Flutter`, `Cubit`,`Dio` |
+
+
+
+
 
 ---
 
 <div align="center">
   <p><i>Let's build something amazing together!</i></p>
-  <p>© 2024 [Your Name]</p>
+  <p>© 2024  Ehab Ahmed</p>
 </div>
