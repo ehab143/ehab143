@@ -10,7 +10,7 @@
 
   <a href="https://github.com/ehab143">
 <img src="https://img.shields.io/github/followers/[YourUsername]?label=Follow&style=social" alt="GitHub Badge"/>  </a>
-  <a href="[https://linkedin.com/in/[YourLinkedin]](https://www.linkedin.com/in/ehab-ahmed-b41b282a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+  <a href="(https://www.linkedin.com/in/ehab-ahmed-b41b282a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:[YourEmail]@gmail.com">
