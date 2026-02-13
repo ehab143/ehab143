@@ -2,7 +2,7 @@
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" />
   
-  <h1>Hi there, I'm [Your Name]! 👋</h1>
+  <h1>Hi there, I'm Ehab Ahmed]! 👋</h1>
   
   <h3>🚀 Passionate Flutter Developer & Mobile App Enthusiast</h3>
 
